@@ -1,5 +1,5 @@
 {
-  "name": "ai-career-forge",
+  "name": "RESUMECRAFT-A-RESUME-MAKER",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -88,13 +88,13 @@
   "main": "eslint.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sushil930/ai-career-forge.git"
+    "url": "git+https://github.com/Vansh-Gokhale/resumecraft.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sushil930/ai-career-forge/issues"
+    "url": "https://github.com/Vansh-Gokhale/resumecraft/issues"
   },
-  "homepage": "https://github.com/sushil930/ai-career-forge#readme"
+  "homepage": "https://github.com/Vansh-Gokhale/resumecraft#readme"
 }
