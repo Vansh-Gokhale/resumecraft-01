@@ -119,8 +119,8 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="mailto:support@aicareerforge.com" className="text-sm sm:text-base text-slate-600 hover:text-blue-600 transition-colors inline-flex items-center group">
-                  <span>support@aicareerforge.com</span>
+                <a href="mailto:vanshgokhale17@gmail.com" className="text-sm sm:text-base text-slate-600 hover:text-blue-600 transition-colors inline-flex items-center group">
+                  <span>vanshgokhale17@gmail.com</span>
                   <ArrowUpRight size={12} className="sm:size-[14px] ml-1 transition-transform group-hover:translate-x-1" />
                 </a>
               </li>
